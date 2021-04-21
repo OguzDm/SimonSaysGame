@@ -1,8 +1,9 @@
 Basic simon says game made with just using UIButtons.
 
-To Do:
--Button Sounds Will be added
--A mini screen will be added where the player chooses how long and how many tiles to play the game 
+|To Do|
+| ------------- |
+|Button Sounds Will be added|
+|A mini screen will be added where the player chooses how long and how many tiles to play the game |
 
 | Start Screen  | Game Screen |
 | ------------- | ------------- |
